@@ -1,0 +1,102 @@
+ body {
+        margin: 0;
+        background-image: url(images/b3.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    #container {
+        width: 790px;
+        height: 380px;
+        border: 0.5px solid pink;
+        margin: auto;
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
+        left: 0px;
+    }
+
+    #picture {
+        width: 270px;
+        height: 350px;
+        border: 1px;
+        position: absolute;
+        top: 15px;
+        left: 25px;
+        background-image: url(../images/lo1.jpg);
+    }
+
+    #content_1 {
+        width: 456px;
+        height: 88px;
+        border: 1px;
+        right: 14px;
+        position: absolute;
+        text-align: center;
+        line-height: 70px;
+    }
+
+    #content {
+        width: 465px;
+        height: 292px;
+        border: 1px;
+        position: absolute;
+        right: 0px;
+        bottom: 0px;
+    }
+
+    .elepant {
+        width: 52px;
+        height: 42px;
+        border: 1px;
+        position: absolute;
+        right: 305px;
+        bottom: 5px;
+        background-image: url(../images/lo2.jpg);
+    }
+
+    .c1 {
+        width: 330px;
+        height: 30px;
+        border: 1px;
+        position: absolute;
+        top: 30px;
+        right: 70px;
+    }
+
+    .c2 {
+        width: 330px;
+        height: 30px;
+        border: 1px;
+        position: absolute;
+        top: 90px;
+        right: 70px;
+    }
+
+    .c3 {
+        width: 330px;
+        height: 30px;
+        border: 1px;
+        position: absolute;
+        bottom: 80px;
+        right: 70px;
+    }
+
+    .c4 {
+        width: 330px;
+        height: 30px;
+        border: 1px;
+        position: absolute;
+        bottom: 20px;
+        right: 68px;
+    }
+
+    .line {
+        width: 470px;
+        height: 0px;
+        position: absolute;
+        border: 0.5px solid pink;
+        right: 8px;
+        top: 85px;
+    }
